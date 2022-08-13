@@ -2,9 +2,7 @@ import numpy as np
 import pandas as pd
 from os import listdir
 from os.path import isfile, join
-
-folder_path = "/Users/phamhanh/Documents/Funix/Data Files"
-folder_grade_path = "/Users/phamhanh/Documents/Funix/Data Files/Expected Output"
+from funix.assigment_2 import folder_path, folder_grade_path, local_dir
 
 
 def get_file_path_in_folder():
@@ -30,49 +28,60 @@ def get_file_grade_path_in_folder():
 
 
 # Quét từng dòng của câu trả lời bài thi để tìm dữ liệu hợp lệ và cung cấp báo cáo tương ứng
-def main_2():
+def main_part2():
     list_file_path = get_file_path_in_folder()
-    with open("/Users/phamhanh/Documents/Funix/Data Files/main_2.txt", "a+", encoding='utf-8', buffering=1) as f:
-        # list_file_path = ["/Users/phamhanh/Documents/Funix/Data Files/class1.txt"]
+    with open(f"{local_dir}/part2_output.txt", "w", encoding='utf-8', buffering=1) as f:
         for file_path in list_file_path:
             file_error = []
-            print(f"Successfully opened {file_path}")
-            # f.write(f"Successfully opened {file_path}" + '\n')
             file = open(file_path, "r")
+            f.write(f"Successfully opened: {file_path} \n")
             lines = file.readlines()
             for line in lines:
                 list_line = list(line.split(","))
                 if len(list_line) != 26:
                     file_error.append(line)
-
             # trường hợp có line lỗi, print dòng bị lỗi
             if file_error:
+                f.write(f"Invalid line of data: does not contain exactly 26 values: \n")
                 for k in file_error:
-                    print(k)
-                    # f.write(k + '\n')
-
+                    f.write(k + '\n')
             else:
-                # f.write("No errors found!" + '\n')
-                print("No errors found!")
-
-            # Report file_error
-            # f.write(f"Total valid lines of data: {len(lines)}" + '\n')
-            # f.write(f"Total invalid lines of data: {len(file_error)}" + '\n')
-            # f.write("================================ RESTART ================================\n\n")
-            print(f"Total valid lines of data: {len(lines)}")
-            print(f"Total invalid lines of data: {len(file_error)}")
-            print("================================ RESTART ================================\n\n")
+                f.write("No errors found!" + '\n')
+            #         # Report file_error
+            f.write(f"Total valid lines of data: {len(lines)}" + '\n')
+            f.write(f"Total invalid lines of data: {len(file_error)}" + '\n')
+            f.write("================================ RESTART ================================\n\n")
 
 
 # Chấm điểm từng bài thi dựa trên tiêu chí đánh giá (rubric) được cung cấp và báo cáo
 
-def main_3():
-    list_file_path = get_file_grade_path_in_folder()
-    with open("/Users/phamhanh/Documents/Funix/Data Files/main_3.txt", "a+", encoding='utf-8', buffering=1) as f:
-        for file_path in list_file_path:
-            print(file_path)
-            f.write(f"Successfully opened {file_path}" + '\n')
-            file = open(file_path, "r")
+def main_part3():
+    list_file_grade_path = get_file_grade_path_in_folder()
+    with open(f"{local_dir}/part3_output.txt", "w", encoding='utf-8', buffering=1) as f:
+        for file_grade_path in list_file_grade_path:
+            f.write(f"Successfully opened {file_grade_path}" + '\n\n')
+
+            class_name = file_grade_path.split('/')[-1].split('.')[0].split('_')[0]
+            class_path = f"{local_dir}/sources/Data Files/{class_name}.txt"
+            file_error = []
+            file = open(class_path, "r")
+            lines = file.readlines()
+            for line in lines:
+                list_line = list(line.split(","))
+                if len(list_line) != 26:
+                    file_error.append(line)
+            # trường hợp có line lỗi, print dòng bị lỗi
+            if file_error:
+                f.write(f"Invalid line of data: does not contain exactly 26 values: \n")
+                for k in file_error:
+                    f.write(k + '\n')
+            else:
+                f.write("No errors found!" + '\n')
+            #         # Report file_error
+            f.write(f"Total valid lines of data: {len(lines)}" + '\n')
+            f.write(f"Total invalid lines of data: {len(file_error)}" + '\n\n')
+
+            file = open(file_grade_path, "r")
             lines = file.readlines()
             id = []
             grade = []
@@ -83,14 +92,13 @@ def main_3():
             data = {'id': id,
                     'grade': grade}
             df = pd.DataFrame(data)
-            print("Mean (average) score:", df['grade'].mean())
-            print("Lowest score:", df['grade'].min())
-            print("Highest score: ", df['grade'].max())
-            print("Median score:", df['grade'].max())
+            f.write(f"Mean (average) score:, {df['grade'].mean()}\n")
+            f.write(f"Lowest score: {df['grade'].min()}\n")
+            f.write(f"Highest score: {df['grade'].max()}\n")
+            f.write(f"Median score: {df['grade'].max()}\n")
+            f.write("================================ RESTART ================================\n\n")
 
 
 if __name__ == "__main__":
-    # main_2()
-    # main_2()
-    main_3()
-    # get_file_grade_path_in_folder()
+    # main_part2()
+    main_part3()
