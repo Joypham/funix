@@ -1,0 +1,2640 @@
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class8.txt
+No errors found!
+Total valid lines of data: 49
+Total invalid lines of data: 0
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class1.txt
+No errors found!
+Total valid lines of data: 20
+Total invalid lines of data: 0
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class2.txt
+N00000023,,A,D,D,C,B,D,A,C,C,,C,,B,A,C,B,D,A,C,A,A
+
+N00000035,B,A,D,D,B,B,,A,C,,D,B,A,B,A,A,B,D,A,C,A,C,B,D,D,A,A
+
+Total valid lines of data: 25
+Total invalid lines of data: 2
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class3.txt
+No errors found!
+Total valid lines of data: 100
+Total invalid lines of data: 0
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class7.txt
+N00001966,B,A,,A,C,B,D,A,C,C,D,B,D,B,A,C,B,,A,C,D,A,A,
+
+N00001974,B,D,D,D,C,A,D,A,A,C,B,B,C,B,A,C,B,D,D,D,A,A,B,D,D,A,A
+
+N00002023,B,A,D,D,,B,D,A,D,,D,B,A,A,A,C,B,D,A,C,,C
+
+N00002034,B,A,D,D,C,D,D,B,,C,D,A,A,B,A,C,B,C,A,C,,A,B,D,D,B
+
+Total valid lines of data: 200
+Total invalid lines of data: 4
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class6.txt
+N00001648,B,A,D,D,C,,D,,B,C,D,,A,
+
+Total valid lines of data: 301
+Total invalid lines of data: 1
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class4.txt
+N00000616,B,A,D,D,A,B,D,A,C,C,D,C,A,B,A,C,B,D,A,,A,B,B,D,D,A
+
+N00000638,B,A,D,D,C,B,D,A,C,,D,B,A,B,A,B,C,D,A,C,A,,,D,D,Q
+
+Total valid lines of data: 495
+Total invalid lines of data: 2
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class5.txt
+No errors found!
+Total valid lines of data: 1000
+Total invalid lines of data: 0
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class8.txt
+No errors found!
+Total valid lines of data: 49
+Total invalid lines of data: 0
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/main_3.txt
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Total valid lines of data: 74
+Total invalid lines of data: 74
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/main_2.txt
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class8.txt
+
+No errors found!
+
+Total valid lines of data: 49
+
+Total invalid lines of data: 0
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class1.txt
+
+No errors found!
+
+Total valid lines of data: 20
+
+Total invalid lines of data: 0
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class2.txt
+
+N00000023,,A,D,D,C,B,D,A,C,C,,C,,B,A,C,B,D,A,C,A,A
+
+
+
+N00000035,B,A,D,D,B,B,,A,C,,D,B,A,B,A,A,B,D,A,C,A,C,B,D,D,A,A
+
+
+
+Total valid lines of data: 25
+
+Total invalid lines of data: 2
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class3.txt
+
+No errors found!
+
+Total valid lines of data: 100
+
+Total invalid lines of data: 0
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class7.txt
+
+N00001966,B,A,,A,C,B,D,A,C,C,D,B,D,B,A,C,B,,A,C,D,A,A,
+
+
+
+N00001974,B,D,D,D,C,A,D,A,A,C,B,B,C,B,A,C,B,D,D,D,A,A,B,D,D,A,A
+
+
+
+N00002023,B,A,D,D,,B,D,A,D,,D,B,A,A,A,C,B,D,A,C,,C
+
+
+
+N00002034,B,A,D,D,C,D,D,B,,C,D,A,A,B,A,C,B,C,A,C,,A,B,D,D,B
+
+
+
+Total valid lines of data: 200
+
+Total invalid lines of data: 4
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class6.txt
+
+N00001648,B,A,D,D,C,,D,,B,C,D,,A,
+
+
+
+Total valid lines of data: 301
+
+Total invalid lines of data: 1
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class4.txt
+
+N00000616,B,A,D,D,A,B,D,A,C,C,D,C,A,B,A,C,B,D,A,,A,B,B,D,D,A
+
+
+
+N00000638,B,A,D,D,C,B,D,A,C,,D,B,A,B,A,B,C,D,A,C,A,,,D,D,Q
+
+
+
+Total valid lines of data: 495
+
+Total invalid lines of data: 2
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class5.txt
+
+No errors found!
+
+Total valid lines of data: 1000
+
+Total invalid lines of data: 0
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class8.txt
+
+No errors found!
+
+Total valid lines of data: 49
+
+Total invalid lines of data: 0
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/main_3.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Total valid lines of data: 74
+
+Total invalid lines of data: 74
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/main_2.txt
+
+Total valid lines of data: 222
+Total invalid lines of data: 222
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class1.txt
+No errors found!
+Total valid lines of data: 20
+Total invalid lines of data: 0
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class2.txt
+N00000023,,A,D,D,C,B,D,A,C,C,,C,,B,A,C,B,D,A,C,A,A
+
+N00000035,B,A,D,D,B,B,,A,C,,D,B,A,B,A,A,B,D,A,C,A,C,B,D,D,A,A
+
+Total valid lines of data: 25
+Total invalid lines of data: 2
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class3.txt
+No errors found!
+Total valid lines of data: 100
+Total invalid lines of data: 0
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class7.txt
+N00001966,B,A,,A,C,B,D,A,C,C,D,B,D,B,A,C,B,,A,C,D,A,A,
+
+N00001974,B,D,D,D,C,A,D,A,A,C,B,B,C,B,A,C,B,D,D,D,A,A,B,D,D,A,A
+
+N00002023,B,A,D,D,,B,D,A,D,,D,B,A,A,A,C,B,D,A,C,,C
+
+N00002034,B,A,D,D,C,D,D,B,,C,D,A,A,B,A,C,B,C,A,C,,A,B,D,D,B
+
+Total valid lines of data: 200
+Total invalid lines of data: 4
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class6.txt
+N00001648,B,A,D,D,C,,D,,B,C,D,,A,
+
+Total valid lines of data: 301
+Total invalid lines of data: 1
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class4.txt
+N00000616,B,A,D,D,A,B,D,A,C,C,D,C,A,B,A,C,B,D,A,,A,B,B,D,D,A
+
+N00000638,B,A,D,D,C,B,D,A,C,,D,B,A,B,A,B,C,D,A,C,A,,,D,D,Q
+
+Total valid lines of data: 495
+Total invalid lines of data: 2
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class5.txt
+No errors found!
+Total valid lines of data: 1000
+Total invalid lines of data: 0
+================================ RESTART ================================
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class8.txt
+
+No errors found!
+
+Total valid lines of data: 49
+
+Total invalid lines of data: 0
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class1.txt
+
+No errors found!
+
+Total valid lines of data: 20
+
+Total invalid lines of data: 0
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class2.txt
+
+N00000023,,A,D,D,C,B,D,A,C,C,,C,,B,A,C,B,D,A,C,A,A
+
+
+
+N00000035,B,A,D,D,B,B,,A,C,,D,B,A,B,A,A,B,D,A,C,A,C,B,D,D,A,A
+
+
+
+Total valid lines of data: 25
+
+Total invalid lines of data: 2
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class3.txt
+
+No errors found!
+
+Total valid lines of data: 100
+
+Total invalid lines of data: 0
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class7.txt
+
+N00001966,B,A,,A,C,B,D,A,C,C,D,B,D,B,A,C,B,,A,C,D,A,A,
+
+
+
+N00001974,B,D,D,D,C,A,D,A,A,C,B,B,C,B,A,C,B,D,D,D,A,A,B,D,D,A,A
+
+
+
+N00002023,B,A,D,D,,B,D,A,D,,D,B,A,A,A,C,B,D,A,C,,C
+
+
+
+N00002034,B,A,D,D,C,D,D,B,,C,D,A,A,B,A,C,B,C,A,C,,A,B,D,D,B
+
+
+
+Total valid lines of data: 200
+
+Total invalid lines of data: 4
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class6.txt
+
+N00001648,B,A,D,D,C,,D,,B,C,D,,A,
+
+
+
+Total valid lines of data: 301
+
+Total invalid lines of data: 1
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class4.txt
+
+N00000616,B,A,D,D,A,B,D,A,C,C,D,C,A,B,A,C,B,D,A,,A,B,B,D,D,A
+
+
+
+N00000638,B,A,D,D,C,B,D,A,C,,D,B,A,B,A,B,C,D,A,C,A,,,D,D,Q
+
+
+
+Total valid lines of data: 495
+
+Total invalid lines of data: 2
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class5.txt
+
+No errors found!
+
+Total valid lines of data: 1000
+
+Total invalid lines of data: 0
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class8.txt
+
+No errors found!
+
+Total valid lines of data: 49
+
+Total invalid lines of data: 0
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/main_3.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Total valid lines of data: 74
+
+Total invalid lines of data: 74
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/main_2.txt
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class8.txt
+
+
+
+No errors found!
+
+
+
+Total valid lines of data: 49
+
+
+
+Total invalid lines of data: 0
+
+
+
+================================ RESTART ================================
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class1.txt
+
+
+
+No errors found!
+
+
+
+Total valid lines of data: 20
+
+
+
+Total invalid lines of data: 0
+
+
+
+================================ RESTART ================================
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class2.txt
+
+
+
+N00000023,,A,D,D,C,B,D,A,C,C,,C,,B,A,C,B,D,A,C,A,A
+
+
+
+
+
+
+
+N00000035,B,A,D,D,B,B,,A,C,,D,B,A,B,A,A,B,D,A,C,A,C,B,D,D,A,A
+
+
+
+
+
+
+
+Total valid lines of data: 25
+
+
+
+Total invalid lines of data: 2
+
+
+
+================================ RESTART ================================
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class3.txt
+
+
+
+No errors found!
+
+
+
+Total valid lines of data: 100
+
+
+
+Total invalid lines of data: 0
+
+
+
+================================ RESTART ================================
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class7.txt
+
+
+
+N00001966,B,A,,A,C,B,D,A,C,C,D,B,D,B,A,C,B,,A,C,D,A,A,
+
+
+
+
+
+
+
+N00001974,B,D,D,D,C,A,D,A,A,C,B,B,C,B,A,C,B,D,D,D,A,A,B,D,D,A,A
+
+
+
+
+
+
+
+N00002023,B,A,D,D,,B,D,A,D,,D,B,A,A,A,C,B,D,A,C,,C
+
+
+
+
+
+
+
+N00002034,B,A,D,D,C,D,D,B,,C,D,A,A,B,A,C,B,C,A,C,,A,B,D,D,B
+
+
+
+
+
+
+
+Total valid lines of data: 200
+
+
+
+Total invalid lines of data: 4
+
+
+
+================================ RESTART ================================
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class6.txt
+
+
+
+N00001648,B,A,D,D,C,,D,,B,C,D,,A,
+
+
+
+
+
+
+
+Total valid lines of data: 301
+
+
+
+Total invalid lines of data: 1
+
+
+
+================================ RESTART ================================
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class4.txt
+
+
+
+N00000616,B,A,D,D,A,B,D,A,C,C,D,C,A,B,A,C,B,D,A,,A,B,B,D,D,A
+
+
+
+
+
+
+
+N00000638,B,A,D,D,C,B,D,A,C,,D,B,A,B,A,B,C,D,A,C,A,,,D,D,Q
+
+
+
+
+
+
+
+Total valid lines of data: 495
+
+
+
+Total invalid lines of data: 2
+
+
+
+================================ RESTART ================================
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class5.txt
+
+
+
+No errors found!
+
+
+
+Total valid lines of data: 1000
+
+
+
+Total invalid lines of data: 0
+
+
+
+================================ RESTART ================================
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class8.txt
+
+
+
+No errors found!
+
+
+
+Total valid lines of data: 49
+
+
+
+Total invalid lines of data: 0
+
+
+
+================================ RESTART ================================
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/main_3.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class1_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+
+
+
+
+Total valid lines of data: 74
+
+
+
+Total invalid lines of data: 74
+
+
+
+================================ RESTART ================================
+
+
+
+
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/main_2.txt
+
+
+
+Total valid lines of data: 222
+
+Total invalid lines of data: 222
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class1.txt
+
+No errors found!
+
+Total valid lines of data: 20
+
+Total invalid lines of data: 0
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class2.txt
+
+N00000023,,A,D,D,C,B,D,A,C,C,,C,,B,A,C,B,D,A,C,A,A
+
+
+
+N00000035,B,A,D,D,B,B,,A,C,,D,B,A,B,A,A,B,D,A,C,A,C,B,D,D,A,A
+
+
+
+Total valid lines of data: 25
+
+Total invalid lines of data: 2
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class3.txt
+
+No errors found!
+
+Total valid lines of data: 100
+
+Total invalid lines of data: 0
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class7.txt
+
+N00001966,B,A,,A,C,B,D,A,C,C,D,B,D,B,A,C,B,,A,C,D,A,A,
+
+
+
+N00001974,B,D,D,D,C,A,D,A,A,C,B,B,C,B,A,C,B,D,D,D,A,A,B,D,D,A,A
+
+
+
+N00002023,B,A,D,D,,B,D,A,D,,D,B,A,A,A,C,B,D,A,C,,C
+
+
+
+N00002034,B,A,D,D,C,D,D,B,,C,D,A,A,B,A,C,B,C,A,C,,A,B,D,D,B
+
+
+
+Total valid lines of data: 200
+
+Total invalid lines of data: 4
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class6.txt
+
+N00001648,B,A,D,D,C,,D,,B,C,D,,A,
+
+
+
+Total valid lines of data: 301
+
+Total invalid lines of data: 1
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class4.txt
+
+N00000616,B,A,D,D,A,B,D,A,C,C,D,C,A,B,A,C,B,D,A,,A,B,B,D,D,A
+
+
+
+N00000638,B,A,D,D,C,B,D,A,C,,D,B,A,B,A,B,C,D,A,C,A,,,D,D,Q
+
+
+
+Total valid lines of data: 495
+
+Total invalid lines of data: 2
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class5.txt
+
+No errors found!
+
+Total valid lines of data: 1000
+
+Total invalid lines of data: 0
+
+================================ RESTART ================================
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class1_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class4_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class3_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class6_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class5_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class8_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class7_grades.txt
+
+
+
+Successfully opened /Users/phamhanh/Documents/Funix/Data Files/Expected Output/class2_grades.txt
+
+
+
+N00000023,,A,D,D,C,B,D,A,C,C,,C,,B,A,C,B,D,A,C,A,A
+
+N00000035,B,A,D,D,B,B,,A,C,,D,B,A,B,A,A,B,D,A,C,A,C,B,D,D,A,A
+
+N00001966,B,A,,A,C,B,D,A,C,C,D,B,D,B,A,C,B,,A,C,D,A,A,
+
+N00001974,B,D,D,D,C,A,D,A,A,C,B,B,C,B,A,C,B,D,D,D,A,A,B,D,D,A,A
+
+N00002023,B,A,D,D,,B,D,A,D,,D,B,A,A,A,C,B,D,A,C,,C
+
+N00002034,B,A,D,D,C,D,D,B,,C,D,A,A,B,A,C,B,C,A,C,,A,B,D,D,B
+
+N00001648,B,A,D,D,C,,D,,B,C,D,,A,
+
+N00000616,B,A,D,D,A,B,D,A,C,C,D,C,A,B,A,C,B,D,A,,A,B,B,D,D,A
+
+N00000638,B,A,D,D,C,B,D,A,C,,D,B,A,B,A,B,C,D,A,C,A,,,D,D,Q
+
