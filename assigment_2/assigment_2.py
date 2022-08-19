@@ -4,31 +4,20 @@ from os.path import isfile, join
 from funix.assigment_2 import folder_path, folder_grade_path, local_dir
 
 
-def get_file_path_in_folder():
-    files = [f for f in listdir(folder_path) if isfile(join(folder_path, f))]
+def get_file_path_in_folder(file_path: str):
+    files = [f for f in listdir(file_path) if isfile(join(file_path, f))]
     # Chỉ lấy ra file txt
     valid_file_path = []
     for i in files:
-        if 'txt' in i:
-            k = folder_path + f"/{i}"
-            valid_file_path.append(k)
-    return valid_file_path
-
-
-def get_file_grade_path_in_folder():
-    files = [f for f in listdir(folder_grade_path) if isfile(join(folder_grade_path, f))]
-    # Chỉ lấy ra file txt
-    valid_file_path = []
-    for i in files:
-        if 'grades' in i:
-            k = folder_grade_path + f"/{i}"
+        if 'class' in i:
+            k = file_path + f"/{i}"
             valid_file_path.append(k)
     return valid_file_path
 
 
 # Quét từng dòng của câu trả lời bài thi để tìm dữ liệu hợp lệ và cung cấp báo cáo tương ứng
 def main_part2():
-    list_file_path = get_file_path_in_folder()
+    list_file_path = get_file_path_in_folder(file_path=folder_path)
     with open(f"{local_dir}/part2_output.txt", "w", encoding='utf-8', buffering=1) as f:
         for file_path in list_file_path:
             file_error = []
@@ -55,7 +44,7 @@ def main_part2():
 # Chấm điểm từng bài thi dựa trên tiêu chí đánh giá (rubric) được cung cấp và báo cáo
 
 def main_part3():
-    list_file_grade_path = get_file_grade_path_in_folder()
+    list_file_grade_path = get_file_path_in_folder(file_path=folder_grade_path)
     with open(f"{local_dir}/part3_output.txt", "w", encoding='utf-8', buffering=1) as f:
         for file_grade_path in list_file_grade_path:
             f.write(f"Successfully opened {file_grade_path}" + '\n\n')
@@ -92,8 +81,9 @@ def main_part3():
                     'grade': grade}
             df = pd.DataFrame(data)
             f.write(f"Mean (average) score:, {df['grade'].mean()}\n")
-            f.write(f"Lowest score: {df['grade'].min()}\n")
             f.write(f"Highest score: {df['grade'].max()}\n")
+            f.write(f"Lowest score: {df['grade'].min()}\n")
+
             f.write(f"Median score: {df['grade'].max()}\n")
             f.write("================================ RESTART ================================\n\n")
 
