@@ -1,4 +1,4 @@
-# Phạm Hồng Hạnh  - Assigment 01
+# Phạm Hồng Hạnh  - Assigment 02
 - Đọc và xử lý file 
 
 # Cấu trúc tệp:
